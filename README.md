@@ -1,10 +1,10 @@
 Covid19 Death, Cases and Recoveries Analysis 
 
-COVID-19 has had a devastating impact on the world, with countries and continents still struggling to recover. This analysis aims to explore the impact of COVID-19 across countries and continents in terms of the number of cases and deaths recorded, and the ratio of cases to deaths and cases to recoveries. This will help us to gain insight into which countries and continents have been affected the most and to what extent.
+COVID-19 has had a devastating impact on the world, with countries and continents still struggling to recover. This analysis aims to explore the impact of COVID-19 across countries and continents in terms of the number of cases and deaths recorded, and the ratio of cases to deaths and cases to recoveries. This will help us gain insight into which countries and continents have been affected the most and to what extent.
 
 Methodology
 
-This analysis will use Excel and Power Query for data cleaning and pivot tables for data aggregation. The data set used is from Worldometer.com and includes the following columns:
+This analysis will use Excel and Power Query for data cleaning and pivot tables for data aggregation. The data set used is from [Worldometer.com](https://www.worldometers.info/coronavirus/) and includes the following columns:
 
 Total cases,
 New cases,
