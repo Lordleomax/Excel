@@ -1,6 +1,7 @@
 ## Covid19 Death, Cases and Recoveries Analysis
 
 
+![Covid 19 Death](https://github.com/Lordleomax/Excel/assets/131598329/a911a8aa-5a73-42f1-ba82-b7518b3dfc25)
 
 COVID-19 has had a devastating impact on the world, with countries and continents still struggling to recover. This analysis aims to explore the impact of COVID-19 across countries and continents in terms of the number of cases and deaths recorded, and the ratio of cases to deaths and cases to recoveries. This will help us gain insight into which countries and continents have been affected the most and to what extent.
 
@@ -17,9 +18,6 @@ New recovered
 Active cases,
 Population,
 Continent.
-
-
-![Covid 19 Death](https://github.com/Lordleomax/Excel/assets/131598329/a911a8aa-5a73-42f1-ba82-b7518b3dfc25)
 
 ### Key Findings
 
