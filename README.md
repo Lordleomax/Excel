@@ -1,8 +1,10 @@
-Covid19 Death, Cases and Recoveries Analysis 
+## Covid19 Death, Cases and Recoveries Analysis
+
+
 
 COVID-19 has had a devastating impact on the world, with countries and continents still struggling to recover. This analysis aims to explore the impact of COVID-19 across countries and continents in terms of the number of cases and deaths recorded, and the ratio of cases to deaths and cases to recoveries. This will help us gain insight into which countries and continents have been affected the most and to what extent.
 
-Methodology
+### Methodology
 
 This analysis will use Excel and Power Query for data cleaning and pivot tables for data aggregation. The data set used is from [Worldometer.com](https://www.worldometers.info/coronavirus/) and includes the following columns:
 
@@ -19,7 +21,7 @@ Continent.
 
 ![Covid 19 Death](https://github.com/Lordleomax/Excel/assets/131598329/a911a8aa-5a73-42f1-ba82-b7518b3dfc25)
 
-Key Findings
+### Key Findings
 
 Africa: Highest Death-to-Case Rate, Lowest Total Cases
 
@@ -45,12 +47,12 @@ Asia: May Have Largest Number of Active Cases
 
 Asia's low cases-to-recovery rate of 73.17% suggests that it may have the largest number of active cases of COVID-19. A further dive into active cases can confirm or refute this postulation.
 
-Conclusion
+### Conclusion
 
 The COVID-19 pandemic has impacted all continents differently. Africa has had the worst fatality rate, despite recording the lowest total cases. Oceania has had the lowest death-to-case rate. Europe has had the highest total cases, but also the highest recovery rate. Asia has the lowest cases-to-recovery rate, which suggests that it may have the largest number of active cases.
 
 
-Further Analysis
+### Further Analysis
 
 Further analysis can be done to explore the impact of COVID-19 on different demographic groups, such as age group, gender, and socioeconomic status. Additionally, the analysis can be used to identify best practices for COVID-19 management and prevention.
 
