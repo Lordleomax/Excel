@@ -21,23 +21,16 @@ Continent.
 
 ### Key Findings
 
-Africa: Highest Death-to-Case Rate, Lowest Total Cases
-
-Africa had the highest death-to-case rate of 2% despite recording the lowest total cases among all continents, with 12.84 million cases. This means that for every 100 COVID-19 cases in Africa, 2 people died.
-
-Oceania: Lowest Death-to-Case Rate
-
-Oceania recorded the lowest death-to-case rate of 0.21%, which means that for every 100 COVID-19 cases in Oceania, only 0.21 people died.
-
-Europe: Highest Total Cases, Highest Recovery Rate
-
-Europe had the highest total cases of all continents, with 230.65 million cases. However, it also had the highest recovery rate, with 98.47% of cases recovering. This is a testament to the robust management of COVID-19 in Europe.
-
-Asia: Lowest Cases-to-Recovery Rate
-
-Asia had the lowest cases-to-recovery rate of 73.17%, which means that only 73.17% of COVID-19 cases in Asia have recovered. This is the lowest recovery rate of all continents.
-
-Irony: Europe Tops in Recovery Rate Despite Highest Cases
+1. Africa: Highest Death-to-Case Rate, Lowest Total Cases
+2. Africa had the highest death-to-case rate of 2% despite recording the lowest total cases among all continents, with 12.84 million cases. This means that for every 100 COVID-19 cases in Africa, 2 people died.
+3. Oceania: Lowest Death-to-Case Rate
+4. Oceania recorded the lowest death-to-case rate of 0.21%, which means that for every 100 COVID-19 cases in Oceania, only 0.21 people died.
+5. Europe: Highest Total Cases, Highest Recovery Rate
+6. Europe had the highest total cases of all continents, with 230.65 million cases. However, it also had the highest recovery rate, with 98.47% of cases recovering. This is a testament to the robust management of COVID-19 in Europe.
+7. Asia: Lowest Cases-to-Recovery Rate
+8. Asia had the lowest cases-to-recovery rate of 73.17%, which means that only 73.17% of COVID-19 cases in Asia have recovered. This is the lowest recovery rate of all continents.
+ 
+ ## Irony: Europe Tops in Recovery Rate Despite Highest Cases
 
 It is ironic that Europe, which had the highest total cases of COVID-19, also had the highest recovery rate. This shows that Europe was able to effectively manage the pandemic and help its citizens recover.
 
